@@ -1,3 +1,10 @@
+# CARTPOLE DQN Version
+
+## 타잔의 오늘의 실습 1. Cartpole
+
+1. Install gym (followed by below instruction)
+2. `python cartpole.py`
+
 **Status:** Maintenance (expect bug fixes and minor updates)
 
 OpenAI Gym
